@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473962510431",
+    "firebase_url": "https://uts-triekawati.firebaseio.com",
+    "project_id": "uts-triekawati",
+    "storage_bucket": "uts-triekawati.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473962510431:android:dcabd38bce1a975db683ea",
+        "android_client_info": {
+          "package_name": "ac.id.atmaluhur.uts_amub_ti7a_1711500099_triekawati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473962510431-e4ftcl6b7iv77r2cbjt076ij4gqvorvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ac.id.atmaluhur.uts_amub_ti7a_1711500099_triekawati",
+            "certificate_hash": "bd3cf93683183161fb99ea06c06b63862c1b96e5"
+          }
+        },
+        {
+          "client_id": "473962510431-0tf1nqbu7ue6robqtn2bl4eouu7m66jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhnMXV0O4fmbUmA1OWkDuIy6L_tR54PSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473962510431-0tf1nqbu7ue6robqtn2bl4eouu7m66jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
